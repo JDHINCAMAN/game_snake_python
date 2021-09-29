@@ -8,7 +8,7 @@
 
 Soy colombiano 🇨🇴 y he sido un amante de la informatica toda mi vida.
 
-🇺🇸 This is my first project in python, the famous snake game 🐍.
+🇬🇧 This is my first project in python, the famous snake game 🐍.
 
 1. I uploaded the audios, images and all the files I used to create this game. 
 2. In addition there is also the source code, the archive(.rar) where everything mentioned above comes.
